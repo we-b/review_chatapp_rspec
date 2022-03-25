@@ -1,5 +1,5 @@
 {
-  "name": "chat_app",
+  "name": "review_chatapp_rspec",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0-alpha",
